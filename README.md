@@ -1,31 +1,43 @@
 # Adventure-Works-Report
 
+## About the project
+
 Made intuitive and interactive dashboards for Adventure Works to get insight on their company's revenue, orders, profit, returns and return rate. The report contains four seven dashboards.
 
-Executive Dashboard:
-Purpose: Quick insights for executives.
-Content: Key KPIs, trends, and critical summaries.
+(1) Executive Dashboard:
+  1. Purpose: Quick insights for executives.
+  2. Content: Key KPIs, trends, and critical summaries.
 
-Map:
-Objective: Explore order distribution globally.
-Content: Interactive map showcasing country-wise orders.
+(2) Map:
+1. Objective: Explore order distribution globally.
+2. Content: Interactive map showcasing country-wise orders.
 
-Product Detail:
-Objective: Assess product alignment with targets, profit trend with price adjustment, and return trend
-Content: Visual trends for orders, revenue, profit, returns and return rates.
+(3) Product Detail:
+  1. Objective: Assess product alignment with targets, profit trend with price adjustment, and return trend
+  2. Content: Visual trends for orders, revenue, profit, returns and return rates.
 
-Customer Detail:
-Objective: Identify top customers and segmentation.
-Content: Top customer details, order volumes, and segmentation.
+(4) Customer Detail:
+1. Objective: Identify top customers and segmentation.
+2. Content: Top customer details, order volumes, and segmentation.
 
-Q&A:
-Objective: User-driven insights through questions.
-Content: Intuitive interface generating insights based on queries.
+(5) Q&A:
+1. Objective: User-driven insights through questions.
+2. Content: Intuitive interface generating insights based on queries.
 
-Decomposition Trees:
-Objective: Explore return rates at different levels.
-Content: Tree structure for categories, subcategories, and products.
+(6) Decomposition Trees:
+1. Objective: Explore return rates at different levels.
+2. Content: Tree structure for categories, subcategories, and products.
 
-Key Influencers:
-Objective: Understand factors influencing home ownership and average retail price
-Content: Insights on how factors impact them.
+(7) Key Influencers:
+1. Objective: Understand factors influencing home ownership and average retail price
+2. Content: Insights on how factors impact them.
+
+
+## Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhika-mahajan-16776b1b8/) )
+
+**Sobhika Mahajan**
+
+**B.Tech Computer Science**
+
+**Banasthali Vidyapith**
